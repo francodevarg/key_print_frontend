@@ -13,6 +13,10 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ---
 ## Project Setup
 
+Pre requisites:
+* NodeJS v20.11.1 LTS
+
+
 1) Clone from remote repository with 'git clone'
 
 2) On the key_print_frontend directory just run:
